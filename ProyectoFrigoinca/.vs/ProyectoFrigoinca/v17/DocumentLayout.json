@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPN\\CICLO 7\\DIARS\\proyectoDiars\\ProyectoFrigoinca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBAF1BD-B94F-4D41-AE55-F82E47B4B8CA}|CapaDatos\\CapaDatos.csproj|d:\\upn\\ciclo 7\\diars\\proyectodiars\\proyectofrigoinca\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBAF1BD-B94F-4D41-AE55-F82E47B4B8CA}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DFC740-AC4A-4009-8DE1-5BBC46330913}|ProyectoFrigoinca\\CapaPresentacion.csproj|D:\\UPN\\CICLO 7\\DIARS\\proyectoDiars\\ProyectoFrigoinca\\proyectofrigoinca\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4DFC740-AC4A-4009-8DE1-5BBC46330913}|ProyectoFrigoinca\\CapaPresentacion.csproj|solutionrelative:proyectofrigoinca\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UPN\\CICLO 7\\DIARS\\proyectoDiars\\ProyectoFrigoinca\\ProyectoFrigoinca\\FormInicio.cs",
+              "RelativeDocumentMoniker": "ProyectoFrigoinca\\FormInicio.cs",
+              "ToolTip": "D:\\UPN\\CICLO 7\\DIARS\\proyectoFinal\\ProyectoFrigoinca\\ProyectoFrigoinca\\FormInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\proyectoFinal\\ProyectoFrigoinca\\ProyectoFrigoinca\\FormInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:34:44.344Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\UPN\\CICLO 7\\DIARS\\proyectoDiars\\ProyectoFrigoinca\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "D:\\UPN\\CICLO 7\\DIARS\\proyectoDiars\\ProyectoFrigoinca\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:48:25.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

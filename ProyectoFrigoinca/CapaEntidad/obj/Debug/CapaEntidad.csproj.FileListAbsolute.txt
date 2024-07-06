@@ -1,0 +1,684 @@
+C:\Users\Jhordany\Desktop\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\SegundaVersion\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\SegundaVersion\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\SegundaVersion\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+E:\SegundaVersion\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\SegundaVersion\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\SegundaVersion\ProyectoDiars\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+F:\TerceraVersion\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\TerceraVersion\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\TerceraVersion\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+F:\TerceraVersion\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+F:\TerceraVersion\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\TerceraVersion\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+F:\CuartaVersion\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\CuartaVersion\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\CuartaVersion\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+F:\CuartaVersion\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+F:\CuartaVersion\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\CuartaVersion\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoAvanzado\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\Entregable\Nueva carpeta\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Proyecto3.0\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\Proyecto3.1\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Proyecto3.3\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\PROYECTO\PROYECTO\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\valle\Videos\ProyectoFrio\ProyectoFrigoinca (1)\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\DIARS\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\YaCasi\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Ingenieria\Desktop\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\YaCasi1.0\Fin\YaCasiSI\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\valle\OneDrive\Documentos\Proyectos\C#\Envio\Envio\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Final\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\RestSharp.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Buffers.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Memory.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\bin\Debug\System.ValueTuple.xml
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\valle\Downloads\Nueva carpeta\ProyectoFrigoinca\ProyectoFrigoinca\CapaEntidad\obj\Debug\CapaEntidad.pdb

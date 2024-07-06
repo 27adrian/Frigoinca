@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B4DFC740-AC4A-4009-8DE1-5BBC46330913}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoFrigoinca</RootNamespace>
+    <AssemblyName>ProyectoFrigoinca</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\ADRIAN\Desktop\Frigoinca\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>D051EB0392A3A703682183D7A3E6C1459E26FF76</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CapaPresentacion_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NumberToWords, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NumberToWords.1.0.1\lib\NumberToWords.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="RestSharp, Version=110.2.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.110.2.0\lib\net471\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.7.0.2\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApisPeru.cs" />
+    <Compile Include="dataMostrar.cs">
+      <DependentUpon>dataMostrar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataMostrar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dataMostrar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAnimal.Designer.cs">
+      <DependentUpon>FormAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuscarCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscarCli.Designer.cs">
+      <DependentUpon>FormBuscarCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuscarPro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscarPro.Designer.cs">
+      <DependentUpon>FormBuscarPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormContacto.Designer.cs">
+      <DependentUpon>FormContacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetalleAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetalleAnimal.Designer.cs">
+      <DependentUpon>FormDetalleAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInventarioRq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInventarioRq.Designer.cs">
+      <DependentUpon>FormInventarioRq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPagoTarjeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPagoTarjeta.Designer.cs">
+      <DependentUpon>FormPagoTarjeta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReporteCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReporteCompra.Designer.cs">
+      <DependentUpon>FormReporteCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuscarMatePri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscarMatePri.Designer.cs">
+      <DependentUpon>FormBuscarMatePri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuscarOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscarOrden.Designer.cs">
+      <DependentUpon>FormBuscarOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuscarProv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscarProv.Designer.cs">
+      <DependentUpon>FormBuscarProv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCompra.Designer.cs">
+      <DependentUpon>FormCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCorte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCorte.Designer.cs">
+      <DependentUpon>FormCorte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInventario.Designer.cs">
+      <DependentUpon>FormInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoteProduc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoteProduc.Designer.cs">
+      <DependentUpon>FormLoteProduc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMateriaPri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMateriaPri.Designer.cs">
+      <DependentUpon>FormMateriaPri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMetodoPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMetodoPago.Designer.cs">
+      <DependentUpon>FormMetodoPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProveedor.Designer.cs">
+      <DependentUpon>FormProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReporteVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReporteVentas.Designer.cs">
+      <DependentUpon>FormReporteVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRequerimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRequerimiento.Designer.cs">
+      <DependentUpon>FormRequerimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRqCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRqCompra.Designer.cs">
+      <DependentUpon>FormRqCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTrabajador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTrabajador.Designer.cs">
+      <DependentUpon>FormTrabajador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVenta.Designer.cs">
+      <DependentUpon>FormVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCliente.Designer.cs">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInicio.Designer.cs">
+      <DependentUpon>FormInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="FormAnimal.resx">
+      <DependentUpon>FormAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuscarCli.resx">
+      <DependentUpon>FormBuscarCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuscarPro.resx">
+      <DependentUpon>FormBuscarPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormContacto.resx">
+      <DependentUpon>FormContacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetalleAnimal.resx">
+      <DependentUpon>FormDetalleAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInventarioRq.resx">
+      <DependentUpon>FormInventarioRq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPagoTarjeta.resx">
+      <DependentUpon>FormPagoTarjeta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReporteCompra.resx">
+      <DependentUpon>FormReporteCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuscarMatePri.resx">
+      <DependentUpon>FormBuscarMatePri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuscarOrden.resx">
+      <DependentUpon>FormBuscarOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuscarProv.resx">
+      <DependentUpon>FormBuscarProv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCompra.resx">
+      <DependentUpon>FormCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCorte.resx">
+      <DependentUpon>FormCorte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInventario.resx">
+      <DependentUpon>FormInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoteProduc.resx">
+      <DependentUpon>FormLoteProduc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMateriaPri.resx">
+      <DependentUpon>FormMateriaPri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMetodoPago.resx">
+      <DependentUpon>FormMetodoPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProveedor.resx">
+      <DependentUpon>FormProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReporteVentas.resx">
+      <DependentUpon>FormReporteVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRequerimiento.resx">
+      <DependentUpon>FormRequerimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRqCompra.resx">
+      <DependentUpon>FormRqCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTrabajador.resx">
+      <DependentUpon>FormTrabajador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVenta.resx">
+      <DependentUpon>FormVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCliente.resx">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInicio.resx">
+      <DependentUpon>FormInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ReporteCompras.rdlc" />
+    <EmbeddedResource Include="ReporteVentas.rdlc" />
+    <None Include="CapaPresentacion_TemporaryKey.pfx" />
+    <None Include="dataMostrar.xsc">
+      <DependentUpon>dataMostrar.xsd</DependentUpon>
+    </None>
+    <None Include="dataMostrar.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dataMostrar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataMostrar.xss">
+      <DependentUpon>dataMostrar.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{CCBAF1BD-B94F-4D41-AE55-F82E47B4B8CA}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{9b50cc80-3efe-4adc-b8b9-55147a77dc61}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaLogica\CapaLogica.csproj">
+      <Project>{3e4a49df-12f7-49a5-9697-2db683a35721}</Project>
+      <Name>CapaLogica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
